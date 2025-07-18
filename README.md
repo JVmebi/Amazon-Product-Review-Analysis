@@ -95,5 +95,6 @@ Q13: Categories with the highest discounts
 ## 📂 Project Files
 
 - `Results Analysis.md`
-- `Amazon Case Study Worked.xlsx  `
+- `Amazon Case Study.xlsx`         # Source File
+- `Amazon Case Study Worked.xlsx`  # Cleaned Data
 - `Amazon-Product-Review-Analysis/ README.md`
